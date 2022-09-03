@@ -1,5 +1,5 @@
 # ms-course
-Curso de Microserviço Spring Boot e Spring Cloud com Nelio Alves da Udemy
+Projeto do curso de Microserviço Spring Boot e Spring Cloud com Nelio Alves da Udemy
 
 Progresso do curso:
  * Feign para requisições de API entre microsserviços ✔️
@@ -10,3 +10,10 @@ Progresso do curso:
  * OAuth e JWT para autenticação e autorização 🚧
  * Servidor de configuração centralizada com dados em repositório Git 🚧
  * Geração de containers Docker para os microsserviços e bases de dados 🚧
+
+## Ferramentas utilizadas para o projeto:
+<div>
+  <img alt="JvGil-STS" height="40" width="30" padding-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="JvGil-Insomnia" height="40" width="30" src="https://www.svgrepo.com/show/353904/insomnia.svg" />
+  <img alt="JvGil-Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
