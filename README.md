@@ -8,7 +8,7 @@ Progresso do curso:
  * API Gateway Zuul para roteamento e autorização ✔️
  * Hystrix para tolerância a falhas ✔️
  * OAuth e JWT para autenticação e autorização 🚧
- * Servidor de configuração centralizada com dados em repositório Git 🚧
+ * Servidor de configuração centralizada com dados em repositório Git ✔️
  * Geração de containers Docker para os microsserviços e bases de dados 🚧
 
 ## Ferramentas utilizadas para o projeto:
