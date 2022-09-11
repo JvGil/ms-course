@@ -12,9 +12,6 @@ public class HrConfigServerApplication implements CommandLineRunner{
 	
 	@Value("${spring.cloud.config.server.git.username}")
 	private String username;
-	
-	@Value("${spring.cloud.config.server.git.password}")
-	private String pass;
 
 	public static void main(String[] args) {
 		SpringApplication.run(HrConfigServerApplication.class, args);
@@ -23,7 +20,6 @@ public class HrConfigServerApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println(username);
-		System.out.println(pass);
 	}
 
 }
